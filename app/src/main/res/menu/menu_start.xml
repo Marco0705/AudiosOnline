@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_crear_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="CREAR"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/item_salir_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/item_salir"
+        app:showAsAction="always" />
+</menu>
