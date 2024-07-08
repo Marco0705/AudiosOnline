@@ -7,7 +7,7 @@ Es una aplicación en la que puedes meter en una base de datos urls de audios on
 
 ### Capturas de la aplicación
 
-![Alt text](https://github.com/Marco0705/AudiosOnline/blob/main/screenshots_images/1.png?raw=true)
-![Alt text](https://github.com/Marco0705/AudiosOnline/blob/main/screenshots_images/2.png?raw=true)
-![Alt text](https://github.com/Marco0705/AudiosOnline/blob/main/screenshots_images/3.png?raw=true)
-![Alt text](https://github.com/Marco0705/AudiosOnline/blob/main/screenshots_images/4.png?raw=true)
+![Alt text](https://github.com/Marco0705/AudiosOnline/blob/main/screenshots/1.png?raw=true)
+![Alt text](https://github.com/Marco0705/AudiosOnline/blob/main/screenshots/2.png?raw=true)
+![Alt text](https://github.com/Marco0705/AudiosOnline/blob/main/screenshots/3.png?raw=true)
+![Alt text](https://github.com/Marco0705/AudiosOnline/blob/main/screenshots/4.png?raw=true)
